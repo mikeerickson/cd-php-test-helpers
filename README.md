@@ -2,7 +2,7 @@
 
 ## License
 
-Copyright &copy; 2017-2018 Mike Erickson
+Copyright &copy; 2017 Mike Erickson
 Released under the MIT license
 
 

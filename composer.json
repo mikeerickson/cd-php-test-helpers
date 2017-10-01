@@ -1,6 +1,6 @@
 {
     "name": "codedungeon/php-test-helpers",
-    "version": "0.0.1",
+    "version": "0.0.4",
     "description": "PHPUnit Test Helpers",
     "keywords": ["composer","test","php","phpunit","helper","package"],
     "homepage": "https://github.com/mikeerickson/php-test-helpers",
